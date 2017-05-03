@@ -14,6 +14,11 @@ cd ./Synopsis
 Command: python synopsis.py -i [input file] -o [output file] -f [type of encryption]
 
 ### Example:
+I have a list.txt file and I want to encode it in md5 format and output it as list_encode.txt:
+
 `python synopsis.py -i list.txt -o list_encode.txt -f md5`
+
 ![Alt](http://sv1.upsieutoc.com/2017/05/03/Screenshotfrom2017-05-0321-17-11.png)
+
+
 Thanks for using!
