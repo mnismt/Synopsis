@@ -1,7 +1,9 @@
 # Synopsis
 
 Synopsis is a tool to quickly and efficiently encode strings from text files, supporting up to 15 different types of encodings.
+
 Current Version: v.1.0.0
+
 Author: ThanhMinh
 
 ## Requirements:
